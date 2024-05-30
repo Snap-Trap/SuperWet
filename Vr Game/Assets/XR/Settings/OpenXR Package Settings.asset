@@ -18,11 +18,9 @@ MonoBehaviour:
   - {fileID: 9519440883055395}
   - {fileID: 939627177490872067}
   - {fileID: -3903064144802093826}
-  - {fileID: -4748106592448770375}
   - {fileID: 7974588565272608789}
   - {fileID: -6499484085950775973}
   - {fileID: 7765494364098940077}
-  - {fileID: -3057414497891550046}
   - {fileID: -3923870051767103250}
   - {fileID: 2176514379839851936}
   - {fileID: 3165479693816413125}
@@ -125,7 +123,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c4b862ee14fb479fbfe5fffe655d3ed3, type: 3}
   m_Name: MetaQuestTouchProControllerProfile Standalone
   m_EditorClassIdentifier: 
-  m_enabled: 1
+  m_enabled: 0
   nameUi: Meta Quest Touch Pro Controller Profile
   version: 0.0.1
   featureIdInternal: com.unity.openxr.feature.input.metaquestpro
@@ -355,7 +353,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: feeef8d85de8db242bdda70cc7ff5acd, type: 3}
   m_Name: OculusTouchControllerProfile Standalone
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Oculus Touch Controller Profile
   version: 0.0.1
   featureIdInternal: com.unity.openxr.feature.input.oculustouch
